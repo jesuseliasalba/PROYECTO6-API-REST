@@ -38,8 +38,8 @@ And the last script we have is to be able to insert a data seed in our database:
 ```
 npm run seed
 ```
-
-`Beware that this last script deletes everything in the database.`
+> [!CAUTION]
+> Beware that this last script deletes everything in the database.
 
 ## Structure:
 
